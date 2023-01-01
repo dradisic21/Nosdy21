@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nosdy21
+- 👋 Hi, I’m @Dino
 - 👀 I’m interested in Front-End development
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on ...
