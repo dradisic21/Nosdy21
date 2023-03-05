@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dino
-- 👀 I’m interested in Front-End development
+- 👀 I’m interested in Front-End / React development
 - 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email: radisic.dino@gmail.com,
                       linkedin: https://www.linkedin.com/in/dino-radišić-73b84210b/
 
